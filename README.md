@@ -1,4 +1,4 @@
-# Modelling-Composite-Spherical-Assembledge-Method
+# Modelling Composite Spherical Assembledge Method
 
 - This work, is analyses a heterogeneous materials’ mechanical behaviour by using composite sphere model for Determination of :- 
   - Effective bulk (K) 
